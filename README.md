@@ -4,7 +4,7 @@
 * Hp-Unix
 	> * 笔记而已。
 * Linux
-	> * linux_for_djbh.sh 	红帽系linxu版本测评使用,兼容6.x，7.x版本，兼容Oracle 11g。后期逐步集成Mysql，MongoDB以及其他可能的需求。
+	> * linux_for_djbh.sh 	红帽系linxu版本测评使用,兼容6.x，7.x版本，兼容Oracle 11g Mysql。
 	> * centos6.sh 			红帽系linxu 6.X 版本测评使用，这个太烂，不再维护。
 	> * centos7.sh 			红帽系linxu 7.X 版本测评使用，这个太烂，不再维护。
 	> * suse11.sh			Suse linux 11.X 版本测评使用。
